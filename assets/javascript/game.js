@@ -65,8 +65,7 @@ $(document).ready(function(){
 		userScore = userScore + emerald;
 		logic();
 	})
-	$("#startbtn").on('click', function(){
-	location.reload();
-})
+	/*$("#startbtn").on('click', function(){
+	location.reload();*/
 
 });
